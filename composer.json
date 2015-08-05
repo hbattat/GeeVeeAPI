@@ -1,0 +1,22 @@
+{
+  "name": "hbattat/geeveeapi",
+  "description": "A PHP class to send and receive SMS from Google Voice",
+  "keywords": ["Google Voice", "GV", "GeeVee", "SMS"],
+  "homepage": "http://github.com/hbattat/GeeVeeAPI",
+  "type": "class",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Husam (Sam) Battat",
+      "email": "hbattat@msn.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-0": {"GeeVee": "src/"}
+  }
+}
+

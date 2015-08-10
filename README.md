@@ -3,15 +3,7 @@ Sends SMS messages to any phone number using Google Voice account
 
 
 #How to use?
-- Without using composer:
 Include the API file src/GeeVee/GeeVeeAPI.php
-
--Using Composer:
-```
-"require": {
-  "tedivm/fetch": "0.6.*"
-}
-```
 
 
 #Examples
